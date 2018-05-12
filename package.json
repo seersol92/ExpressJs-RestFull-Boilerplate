@@ -1,0 +1,41 @@
+{
+  "name": "Recap-Gen-Rest-Api",
+  "version": "1.0.0",
+  "description": "Recap GEN APP using Nod, Express and Rest  Api\t",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seersol92/mean_app.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "ANGULAR",
+    "4",
+    "APP"
+  ],
+  "author": "HADI-MUGHAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seersol92/mean_app/issues"
+  },
+  "homepage": "https://github.com/seersol92/mean_app#readme",
+  "dependencies": {
+    "@angular/cli": "^1.7.2",
+    "bcrypt-nodejs": "0.0.3",
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "express-validator": "^4.3.0",
+    "handlebars": "^4.0.11",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^4.13.12",
+    "mongoose-unique-validator": "^1.0.6",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.4",
+    "nodemon": "^1.17.3",
+    "pm2": "^2.10.1"
+  }
+}
