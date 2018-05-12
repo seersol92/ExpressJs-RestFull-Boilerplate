@@ -5,7 +5,7 @@ Expressjs  REST API Boilerplate with login register and JWT Token verification
 
 - authentication via [JWT](https://jwt.io/)
 - routes mapping via [express-routes-mapper](https://github.com/aichbauer/express-routes-mapper)
-- support for [sqlite](https://www.sqlite.org/), [mysql](https://www.mysql.com/), and [postgresql](https://www.postgresql.org/)
+- support for [mongoose](http://mongoosejs.com//),
 - environments for `development`, `testing`, and `production`
 - linting via [eslint](https://github.com/eslint/eslint)
 - integration tests running with [Jest](https://github.com/facebook/jest)
